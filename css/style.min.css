@@ -2082,7 +2082,7 @@ input:-webkit-autofill {
 		font-size: 17px
 	}
 	.story__slider .slide {
-		width: 230px;
+		width: 900px;
 		margin-left: 3%
 	}
 }
@@ -2091,14 +2091,14 @@ input:-webkit-autofill {
 	.story__slider {
 		-webkit-box-pack: end;
 		-ms-flex-pack: end;
-		justify-content: flex-end
+		justify-content: center
 	}
 	.story__slider h5,
 	.story__slider p {
 		font-size: 20px
 	}
 	.story__slider .slide {
-		width: 325px;
+		width: 1000px;
 		margin-left: 50px
 	}
 }
