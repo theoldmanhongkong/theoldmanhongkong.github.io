@@ -2213,7 +2213,7 @@ blockquote {
 
 @media (min-width:1201px) {
 	blockquote {
-		font-size: 50px;
+		font-size: 25px;
 		max-width: 1450px;
 		margin: 250px auto;
 		text-align: center
